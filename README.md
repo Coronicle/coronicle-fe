@@ -12,4 +12,7 @@ Backend: [Found here](https://github.com/Coronicle/coronicle-be)
 
 ![](screenshots/combined.png)
 
+## Try it out!
+
+https://expo.io/@achill/coronicle
 
