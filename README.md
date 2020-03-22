@@ -6,4 +6,6 @@ It a standard react native app built using the Expo framework.
 
 Backend: [Found here](https://github.com/Coronicle/coronicle-be)
 
+![](screenshots/combined.png)
+
 
